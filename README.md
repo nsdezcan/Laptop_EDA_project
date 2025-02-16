@@ -1,5 +1,5 @@
 # Laptop_EDA_project
-# Laptop ENG
+
 
 Bu repo, **Laptop ENG.ipynb** dosyasını içermektedir. Bu dosya, laptoplarla ilgili veri analizi veya makine öğrenimi konularında bilgi içerebilir.
 
@@ -19,7 +19,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Bu repository'yi klonlayın:**
    ```bash
-   git clone https://github.com/kullanici_adiniz/Laptop-ENG.git
+   git clone https://github.com/nsdezcan/Laptop_EDA_project.git
    ```
 
 2. **Gerekli bağımlılıkları yükleyin:**
